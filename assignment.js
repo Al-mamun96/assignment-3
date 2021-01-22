@@ -1,7 +1,7 @@
-             // https://github.com/Al-mamun96/assignment-3
+// https://github.com/Al-mamun96/assignment-3
+             
 
-
-  //  problem solving-1  convert kilometer to meter
+//  problem solving-1  convert kilometer to meter
 
         function kilometerToMeter(convert){
             var meter = convert*1000;
@@ -9,7 +9,7 @@
         }
     
 
-    // problem solving-2  budgetCalculator
+// problem solving-2  budgetCalculator
 
         function budgetCalculator(clock,phone,laptop){
             var clockPrice = clock*50;
@@ -21,7 +21,7 @@
         
             
 
-      // problem solving-3 hotelCost 
+// problem solving-3 hotelCost 
 
 
          function hotelCost(day){
@@ -49,7 +49,7 @@
             
         
 
-            // problem solving-04 megaFriend
+ // problem solving-04 megaFriend
 
 
 
