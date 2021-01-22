@@ -1,3 +1,6 @@
+             // https://github.com/Al-mamun96/assignment-3
+
+
   //  problem solving-1  convert kilometer to meter
 
         function kilometerToMeter(convert){
@@ -15,8 +18,7 @@
             var totalPrice = clockPrice+phonePrice+laptopPrice;
             return totalPrice;
         }
-        var result = budgetCalculator(2,3,8);
-        console.log(result);
+        
             
 
       // problem solving-3 hotelCost 
